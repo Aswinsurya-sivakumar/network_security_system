@@ -1,0 +1,24 @@
+artifact_path: file:C:/Users/Dell/OneDrive/Desktop/DATA SCIENCE/MY CODE/PROJECTS/2.NETWORK
+  SECURITY SYSTEM/mlruns/0/models/m-76971eab6f7141c39cb3bdcabc44e782/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.6.1
+    skops_trusted_types: null
+mlflow_version: 3.15.1
+model_id: m-76971eab6f7141c39cb3bdcabc44e782
+model_size_bytes: 15800916
+model_uuid: m-76971eab6f7141c39cb3bdcabc44e782
+prompts: null
+run_id: f69498eadd5547d686d5ce855fdd8015
+utc_time_created: '2026-08-15 15:13:42.211448'
