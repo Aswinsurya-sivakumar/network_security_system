@@ -1,0 +1,7 @@
+[2026-08-17 20:28:01,960] 161 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2026-08-17 20:28:13,810] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-08-17 20:28:13,826] 107 dagshub - INFO - Accessing as aswinsuryasivakumar2004
+[2026-08-17 20:28:15,258] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/aswinsuryasivakumar2004/network_security_system "HTTP/1.1 200 OK"
+[2026-08-17 20:28:16,992] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-08-17 20:28:16,999] 107 dagshub - INFO - Initialized MLflow to track repo "aswinsuryasivakumar2004/network_security_system"
+[2026-08-17 20:28:17,005] 107 dagshub - INFO - Repository aswinsuryasivakumar2004/network_security_system initialized!
